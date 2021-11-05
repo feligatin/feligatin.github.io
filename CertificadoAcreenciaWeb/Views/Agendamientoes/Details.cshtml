@@ -1,0 +1,66 @@
+﻿@model CertificadoAcreenciaWeb.Models.Agendamiento
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Agendamiento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Mes)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mes)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Hora)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hora)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Clie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Clie)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Esta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Esta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Prac)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Prac)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

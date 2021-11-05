@@ -1,0 +1,173 @@
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\CertificadoAcreenciaWeb.dll.config
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\CertificadoAcreenciaWeb.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\CertificadoAcreenciaWeb.pdb
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csc.exe
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csc.exe.config
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csc.rsp
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csi.exe
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csi.exe.config
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csi.rsp
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.AppContext.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Console.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.IO.Compression.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.IO.Pipes.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Claims.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.ValueTuple.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Xml.XPath.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\vbc.exe
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\vbc.exe.config
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\vbc.rsp
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\VBCSCompiler.exe
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Antlr3.Runtime.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Newtonsoft.Json.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Helpers.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Mvc.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Optimization.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Razor.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.Deployment.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.Razor.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\WebGrease.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Helpers.xml
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Mvc.xml
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Optimization.xml
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Razor.xml
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.xml
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.Deployment.xml
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.Razor.xml
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Newtonsoft.Json.xml
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Antlr3.Runtime.pdb
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.Helpers.resources.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.Mvc.resources.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.Optimization.resources.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.Razor.resources.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.WebPages.resources.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\obj\Debug\CertificadoAcreenciaWeb.csproj.CoreCompileInputs.cache
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\obj\Debug\CertificadoAcreenciaWeb.csproj.CopyComplete
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\obj\Debug\CertificadoAcreenciaWeb.dll
+D:\TameGaloFlores\Visual 2017\CertificadoAcreencia\CertificadoAcreenciaWeb\obj\Debug\CertificadoAcreenciaWeb.pdb
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\CertificadoAcreenciaWeb.dll.config
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\CertificadoAcreenciaWeb.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\CertificadoAcreenciaWeb.pdb
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csc.exe
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csc.exe.config
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csc.rsp
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csi.exe
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csi.exe.config
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\csi.rsp
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.AppContext.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Console.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.IO.Compression.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.IO.Pipes.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.AccessControl.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Claims.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Security.Principal.Windows.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.ValueTuple.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Xml.XPath.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\vbc.exe
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\vbc.exe.config
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\vbc.rsp
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\VBCSCompiler.exe
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Antlr3.Runtime.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Newtonsoft.Json.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Helpers.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Mvc.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Optimization.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Razor.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.Deployment.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.Razor.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\WebGrease.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Helpers.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Mvc.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Optimization.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.Razor.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.Deployment.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\System.Web.WebPages.Razor.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Newtonsoft.Json.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Antlr3.Runtime.pdb
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.Helpers.resources.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.Mvc.resources.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.Optimization.resources.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.Razor.resources.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.WebPages.resources.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\obj\Debug\CertificadoAcreenciaWeb.csprojAssemblyReference.cache
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\obj\Debug\CertificadoAcreenciaWeb.csproj.CoreCompileInputs.cache
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\obj\Debug\CertificadoAcreenciaWeb.csproj.CopyComplete
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\obj\Debug\CertificadoAcreenciaWeb.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\obj\Debug\CertificadoAcreenciaWeb.pdb
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\EntityFramework.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\EntityFramework.SqlServer.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\EntityFramework.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\EntityFramework.SqlServer.xml
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\Rotativa.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\IronPdf.Assets.Rendering.Windows.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\IronPdf.dll
+E:\word\TAME\vprUEBA\CertificadoAcreencia\CertificadoAcreenciaWeb\bin\IronPdf.xml
