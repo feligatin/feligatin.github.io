@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="SelectPuroDB2DataSET">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="consulta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectPuroDB2DataSETResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectPuroDB2DataSETResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EliminarPuro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="consulta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EliminarPuroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EliminarPuroResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectDB2DataSET">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="columnas" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="condicion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectDB2DataSETResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectDB2DataSETResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Consultar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="columnas" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="condicion" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="agruparResultados" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="numeroResultados" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConsultarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConsultarResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectPuro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="consulta" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SelectPuroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SelectPuroResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSQLDB2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sql" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="columnas" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="bandera" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertSQLDB2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertSQLDB2Result" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertarSQLDB2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sql" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="columnas" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertarSQLDB2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertarSQLDB2Result" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EjecutarStoreProcedure">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cadenaSQL" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EjecutarStoreProcedureResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EjecutarStoreProcedureResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpDate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tabla" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="actualizar" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="condicion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpDateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpDateResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="SelectPuroDB2DataSETSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectPuroDB2DataSET" />
+  </wsdl:message>
+  <wsdl:message name="SelectPuroDB2DataSETSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectPuroDB2DataSETResponse" />
+  </wsdl:message>
+  <wsdl:message name="EliminarPuroSoapIn">
+    <wsdl:part name="parameters" element="tns:EliminarPuro" />
+  </wsdl:message>
+  <wsdl:message name="EliminarPuroSoapOut">
+    <wsdl:part name="parameters" element="tns:EliminarPuroResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelectDB2DataSETSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectDB2DataSET" />
+  </wsdl:message>
+  <wsdl:message name="SelectDB2DataSETSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectDB2DataSETResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarSoapIn">
+    <wsdl:part name="parameters" element="tns:Consultar" />
+  </wsdl:message>
+  <wsdl:message name="ConsultarSoapOut">
+    <wsdl:part name="parameters" element="tns:ConsultarResponse" />
+  </wsdl:message>
+  <wsdl:message name="SelectPuroSoapIn">
+    <wsdl:part name="parameters" element="tns:SelectPuro" />
+  </wsdl:message>
+  <wsdl:message name="SelectPuroSoapOut">
+    <wsdl:part name="parameters" element="tns:SelectPuroResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertSQLDB2SoapIn">
+    <wsdl:part name="parameters" element="tns:InsertSQLDB2" />
+  </wsdl:message>
+  <wsdl:message name="InsertSQLDB2SoapOut">
+    <wsdl:part name="parameters" element="tns:InsertSQLDB2Response" />
+  </wsdl:message>
+  <wsdl:message name="InsertarSQLDB2SoapIn">
+    <wsdl:part name="parameters" element="tns:InsertarSQLDB2" />
+  </wsdl:message>
+  <wsdl:message name="InsertarSQLDB2SoapOut">
+    <wsdl:part name="parameters" element="tns:InsertarSQLDB2Response" />
+  </wsdl:message>
+  <wsdl:message name="EjecutarStoreProcedureSoapIn">
+    <wsdl:part name="parameters" element="tns:EjecutarStoreProcedure" />
+  </wsdl:message>
+  <wsdl:message name="EjecutarStoreProcedureSoapOut">
+    <wsdl:part name="parameters" element="tns:EjecutarStoreProcedureResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpDateSoapIn">
+    <wsdl:part name="parameters" element="tns:UpDate" />
+  </wsdl:message>
+  <wsdl:message name="UpDateSoapOut">
+    <wsdl:part name="parameters" element="tns:UpDateResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service1Soap">
+    <wsdl:operation name="SelectPuroDB2DataSET">
+      <wsdl:input message="tns:SelectPuroDB2DataSETSoapIn" />
+      <wsdl:output message="tns:SelectPuroDB2DataSETSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EliminarPuro">
+      <wsdl:input message="tns:EliminarPuroSoapIn" />
+      <wsdl:output message="tns:EliminarPuroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectDB2DataSET">
+      <wsdl:input message="tns:SelectDB2DataSETSoapIn" />
+      <wsdl:output message="tns:SelectDB2DataSETSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Consultar">
+      <wsdl:input message="tns:ConsultarSoapIn" />
+      <wsdl:output message="tns:ConsultarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectPuro">
+      <wsdl:input message="tns:SelectPuroSoapIn" />
+      <wsdl:output message="tns:SelectPuroSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertSQLDB2">
+      <wsdl:input message="tns:InsertSQLDB2SoapIn" />
+      <wsdl:output message="tns:InsertSQLDB2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertarSQLDB2">
+      <wsdl:input message="tns:InsertarSQLDB2SoapIn" />
+      <wsdl:output message="tns:InsertarSQLDB2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EjecutarStoreProcedure">
+      <wsdl:input message="tns:EjecutarStoreProcedureSoapIn" />
+      <wsdl:output message="tns:EjecutarStoreProcedureSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpDate">
+      <wsdl:input message="tns:UpDateSoapIn" />
+      <wsdl:output message="tns:UpDateSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service1Soap" type="tns:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SelectPuroDB2DataSET">
+      <soap:operation soapAction="http://tempuri.org/SelectPuroDB2DataSET" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarPuro">
+      <soap:operation soapAction="http://tempuri.org/EliminarPuro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectDB2DataSET">
+      <soap:operation soapAction="http://tempuri.org/SelectDB2DataSET" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Consultar">
+      <soap:operation soapAction="http://tempuri.org/Consultar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectPuro">
+      <soap:operation soapAction="http://tempuri.org/SelectPuro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSQLDB2">
+      <soap:operation soapAction="http://tempuri.org/InsertSQLDB2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarSQLDB2">
+      <soap:operation soapAction="http://tempuri.org/InsertarSQLDB2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EjecutarStoreProcedure">
+      <soap:operation soapAction="http://tempuri.org/EjecutarStoreProcedure" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpDate">
+      <soap:operation soapAction="http://tempuri.org/UpDate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service1Soap12" type="tns:Service1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SelectPuroDB2DataSET">
+      <soap12:operation soapAction="http://tempuri.org/SelectPuroDB2DataSET" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EliminarPuro">
+      <soap12:operation soapAction="http://tempuri.org/EliminarPuro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectDB2DataSET">
+      <soap12:operation soapAction="http://tempuri.org/SelectDB2DataSET" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Consultar">
+      <soap12:operation soapAction="http://tempuri.org/Consultar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectPuro">
+      <soap12:operation soapAction="http://tempuri.org/SelectPuro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertSQLDB2">
+      <soap12:operation soapAction="http://tempuri.org/InsertSQLDB2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertarSQLDB2">
+      <soap12:operation soapAction="http://tempuri.org/InsertarSQLDB2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EjecutarStoreProcedure">
+      <soap12:operation soapAction="http://tempuri.org/EjecutarStoreProcedure" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpDate">
+      <soap12:operation soapAction="http://tempuri.org/UpDate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="Service1Soap" binding="tns:Service1Soap">
+      <soap:address location="http://10.1.1.37/WebServices/ejecutardb2/service1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service1Soap12" binding="tns:Service1Soap12">
+      <soap12:address location="http://10.1.1.37/WebServices/ejecutardb2/service1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
