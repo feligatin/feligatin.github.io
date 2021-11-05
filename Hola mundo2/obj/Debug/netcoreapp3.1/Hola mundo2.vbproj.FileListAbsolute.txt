@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Hola mundo2\obj\Debug\netcoreapp3.1\Hola mundo2.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Hola mundo2\obj\Debug\netcoreapp3.1\Hola_mundo2.Form1.resources
+C:\Users\User\source\repos\Hola mundo2\obj\Debug\netcoreapp3.1\Hola mundo2.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Hola mundo2\obj\Debug\netcoreapp3.1\Hola mundo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Hola mundo2\obj\Debug\netcoreapp3.1\Hola mundo2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Hola mundo2\obj\Debug\netcoreapp3.1\Hola mundo2.AssemblyInfo.vb
+C:\Users\User\source\repos\Hola mundo2\obj\Debug\netcoreapp3.1\Hola mundo2.vbproj.CoreCompileInputs.cache
